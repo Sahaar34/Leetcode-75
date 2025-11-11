@@ -13,5 +13,4 @@ This repository tracks my personal progress through the challenge.
 
 ---
 
-## 🗂️ Repository Structure
 
