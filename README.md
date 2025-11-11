@@ -11,6 +11,5 @@ It covers key algorithmic topics such as arrays, linked lists, trees, dynamic pr
 
 This repository tracks my personal progress through the challenge.
 
----
 
 
